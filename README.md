@@ -9,11 +9,11 @@ Este curso abrange desde o básico do Python até a exploração de diferentes t
 
 Principais tópicos descritos durante o curso:
 
-- Importação de conjuntos de dados
-- Limpeza dos dados
-- Manipulação de estrutura de dados
-- Resumo dos dados
-- Construção de modelos de regressão de aprendizado de máquina
-- Construção de dados pipeline
+- Importação de conjuntos de dados;
+- Limpeza dos dados;
+- Manipulação de estrutura de dados;
+- Resumo dos dados;
+- Construção de modelos de regressão de aprendizado de máquina;
+- Construção de dados pipeline.
 
-Para mais detalhes sobre o curso, favor clicar no link: <a href=https://www.coursera.org/learn/data-analysis-with-python-pt?><strong>Análise de dados com Python</strong></a>
+Para mais detalhes sobre o curso, favor clicar no link: <a href="https://www.coursera.org/learn/data-analysis-with-python-pt?" target="_blank"><strong>Análise de dados com Python</strong></a>
