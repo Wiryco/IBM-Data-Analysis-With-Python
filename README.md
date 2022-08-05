@@ -14,6 +14,7 @@ Principais tópicos descritos durante o curso:
 - Manipulação de estrutura de dados;
 - Resumo dos dados;
 - Construção de modelos de regressão de aprendizado de máquina;
+- Sobreajuste (<i>overfitting</i>), subajuste (<i>underfitting</i>) e seleção de modelo;
 - Construção de dados pipeline.
 
 Para mais detalhes sobre o curso, favor clicar no link: <a href="https://www.coursera.org/learn/data-analysis-with-python-pt?" target="_blank"><strong>Análise de dados com Python</strong></a>
